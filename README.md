@@ -1,3 +1,2 @@
-prout.
-
-# FEUR.
+# 🇫🇷
+## français comme baguette pain croissant
